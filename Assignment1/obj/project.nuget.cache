@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1s6XNM28xs5rzcy3JLK+gSKJw5jm2BMBk/ootqGs6cVdc6p5Y0ZQ1We9M0DWvPx6sNsaTRWSpRQbQmTcaRYLWw==",
+  "dgSpecHash": "kaGzm1lXnCqbPSKgGol+5BYVTFcQk/JreQuZt5e4F/l8bncGZvh2VX79Swo8chOlFUQMtWTzEqDPOdQSYbD03g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\romok\\OneDrive\\Desktop\\School\\Classes\\CS - C#\\Assignment1\\Assignment1\\Assignment1.csproj",
+  "projectFilePath": "D:\\GitHub Folder\\ValidNumber\\Assignment1\\Assignment1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\romok\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
     "C:\\Users\\romok\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",

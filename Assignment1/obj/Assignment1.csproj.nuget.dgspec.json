@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\romok\\OneDrive\\Desktop\\School\\Classes\\CS - C#\\Assignment1\\Assignment1\\Assignment1.csproj": {}
+    "D:\\GitHub Folder\\ValidNumber\\Assignment1\\Assignment1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\romok\\OneDrive\\Desktop\\School\\Classes\\CS - C#\\Assignment1\\Assignment1\\Assignment1.csproj": {
+    "D:\\GitHub Folder\\ValidNumber\\Assignment1\\Assignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romok\\OneDrive\\Desktop\\School\\Classes\\CS - C#\\Assignment1\\Assignment1\\Assignment1.csproj",
+        "projectUniqueName": "D:\\GitHub Folder\\ValidNumber\\Assignment1\\Assignment1.csproj",
         "projectName": "Assignment1",
-        "projectPath": "C:\\Users\\romok\\OneDrive\\Desktop\\School\\Classes\\CS - C#\\Assignment1\\Assignment1\\Assignment1.csproj",
+        "projectPath": "D:\\GitHub Folder\\ValidNumber\\Assignment1\\Assignment1.csproj",
         "packagesPath": "C:\\Users\\romok\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romok\\OneDrive\\Desktop\\School\\Classes\\CS - C#\\Assignment1\\Assignment1\\obj\\",
+        "outputPath": "D:\\GitHub Folder\\ValidNumber\\Assignment1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\romok\\AppData\\Roaming\\NuGet\\NuGet.Config",
