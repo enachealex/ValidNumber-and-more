@@ -40,7 +40,7 @@ namespace LWTech.AlexEnache.Assignment1
             double doubleNumber = 0;
             checkIfValidNumber = false;
 
-            Console.WriteLine("\n----------------------Finding the Polynomial!--------------------");
+            Console.WriteLine("\n----------------------Calculating the Polynomial!--------------------");
 
             Console.WriteLine("Please enter an integer for the Polynomial:");
                 number = Console.ReadLine();
@@ -51,7 +51,7 @@ namespace LWTech.AlexEnache.Assignment1
             
 
             //2.display result of value of polynomial
-            Console.WriteLine(doubleNumber);
+            Console.WriteLine("Polynomial Function Result: " + doubleNumber);
             
             //3.prompt user to enter integer
             int longNumber = 0;
@@ -92,7 +92,7 @@ namespace LWTech.AlexEnache.Assignment1
 
                 for (int i = 0; i < numbers; i++)
                 {
-                    Console.WriteLine("Enter a sequence of numbers between 1 - 50 for min and max:");
+                    Console.WriteLine("Enter a sequence of numbers for min and max:");
                     number = Console.ReadLine();
                     checkIfValidNumber = int.TryParse(number, out minMaxNumber);
                     if (checkIfValidNumber == false)
@@ -108,12 +108,12 @@ namespace LWTech.AlexEnache.Assignment1
             
 
             //5.even numbers between 150-200
-            Console.WriteLine("\n----------Finding the Even Numbers Between 150 and 200!-----------");
+            Console.WriteLine("\n----------Finding the Even Numbers From 150 to 200!-----------");
             Console.WriteLine($"Even numbers from 150-200: {EvenNumbers()}");
 
 
             //6.even numbers between 100-0
-            Console.WriteLine("\n------------Finding the Even Numbers Between 100 and 0!----------------");
+            Console.WriteLine("\n------------Finding the Even Numbers From 100 to 0!----------------");
             Console.WriteLine($"Even numbers from 100-0: {EvenNumbersTwo()}");
 
             //7.ask test score, display letter grade, continue to ask until entered quit, case not sensitive
@@ -174,6 +174,7 @@ namespace LWTech.AlexEnache.Assignment1
             int minute = 0;
 
             hour = sec / 3600;
+
             sec = sec % 3600;
             minute = sec / 60;
             sec = sec % 60;
@@ -185,28 +186,36 @@ namespace LWTech.AlexEnache.Assignment1
         //5.method with while-loop with even numbers only between 150 - 200 ascending
         private static int EvenNumbers()
         {
+            int count = 0;
             int numbers = 150;
             while (numbers < 250)
             {
                 numbers++;
                 if (numbers % 2 == 0)
-                    Console.Write(numbers+", ");
+                {
+                    Console.Write(numbers + ", ");
+                    count++;
+                }
             }
-            return numbers;
+            return count;
         }
 
         //6.method with do-loop to get even integers from 100-0 descending
         private static int EvenNumbersTwo()
         {
+            int count = 0;
             int number = 100;
             do
             {
                 if (number % 2 == 0)
+                {
                     Console.Write($"{number}, ");
+                    count++;
+                }
                 number--;
             }
             while (number > 0); 
-            return number;
+            return count;
         }
         //7.switch statement to convert test score into letter grade
         private static string GradeConverter(int grade)
@@ -214,7 +223,7 @@ namespace LWTech.AlexEnache.Assignment1
             switch(grade)
             {
                 case 4:
-                    Console.WriteLine("You got an A - Awesome B)");
+                    Console.WriteLine("You got an A - Awesome!");
                     break;
                 case 3:
                     Console.WriteLine("You got a B - Bravo!");
@@ -226,7 +235,7 @@ namespace LWTech.AlexEnache.Assignment1
                     Console.WriteLine("You got a D - Deadly");
                     break;
                 default:
-                    Console.WriteLine("You failed a long time ago.");
+                    Console.WriteLine("You got a F - Failure");
                     break;
 
             }

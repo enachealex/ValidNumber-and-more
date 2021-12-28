@@ -9,3 +9,17 @@ C:\Users\Alex's Laptop\Desktop\School\CS - C#\Assignment1\Assignment1\obj\Debug\
 C:\Users\Alex's Laptop\Desktop\School\CS - C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.AssemblyInfo.cs
 C:\Users\Alex's Laptop\Desktop\School\CS - C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.dll
 C:\Users\Alex's Laptop\Desktop\School\CS - C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.pdb
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment1\Assignment1\bin\Debug\netcoreapp3.0\Assignment1.exe
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment1\Assignment1\bin\Debug\netcoreapp3.0\Assignment1.deps.json
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment1\Assignment1\bin\Debug\netcoreapp3.0\Assignment1.runtimeconfig.json
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment1\Assignment1\bin\Debug\netcoreapp3.0\Assignment1.runtimeconfig.dev.json
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment1\Assignment1\bin\Debug\netcoreapp3.0\Assignment1.dll
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment1\Assignment1\bin\Debug\netcoreapp3.0\Assignment1.pdb
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.csproj.AssemblyReference.cache
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.AssemblyInfo.cs
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.dll
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.pdb
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.genruntimeconfig.cache
